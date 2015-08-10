@@ -1,5 +1,3 @@
-package oop
-
 class Person {
   private var age = 0;
 
