@@ -1,3 +1,5 @@
+package array
+
 
 object Operations {
     def main(args :Array[String]): Unit = {

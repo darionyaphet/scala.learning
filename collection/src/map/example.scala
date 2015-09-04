@@ -1,3 +1,5 @@
+package map
+
 
 object example{
     def main(args:Array[String]) :Unit = {
